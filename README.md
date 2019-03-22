@@ -1,5 +1,6 @@
-# Starter project  
-Uses webpack, webpack-cli, webpack-dev-server, babel.  
+# Starter Webpack project  
+Runs a localhost server, watches files and has live reloading.  
+Uses webpack and babel.  
 
 ## Commands  
 `npm start` to open in browser in development mode  
