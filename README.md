@@ -1,5 +1,3 @@
-# Moved to http://github.com/mort3za/webpack-starter  
-
 # Starter project  
 Uses webpack, webpack-cli, webpack-dev-server, babel.  
 
